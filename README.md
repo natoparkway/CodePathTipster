@@ -1,0 +1,2 @@
+# CodePathTipster
+Simple tip calculator.
